@@ -7,6 +7,7 @@ Algunos ejercicios correspondientes al módulo 1 del curso Machine Learning
 Algunas referencias: 
 
 
+Documentación para el README de github
 
 
 
